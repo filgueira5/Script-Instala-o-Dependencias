@@ -1,0 +1,21 @@
+Automatização de Ambiente de Desenvolvimento com Shell Script: 
+
+Este repositório contém um script em Shell que facilita a instalação, verificação e remoção de dependências essenciais para desenvolvedores. Com ele, você pode configurar rapidamente um ambiente de desenvolvimento em sistemas Linux baseados em apt-get.
+
+Funcionalidades:
+
+Instalação de Dependências: Atualiza o sistema e instala ferramentas essenciais como GCC, Git, Vim, PostgreSQL, PgModeler e Visual Studio Code.
+
+Verificação de Dependências Instaladas: Verifica quais dependências estão instaladas no sistema.
+
+Remoção de Dependências: Remove dependências e realiza a limpeza de pacotes desnecessários.
+
+Interface Interativa: Menu simples e intuitivo para navegação entre as opções.
+
+Requisitos
+
+Sistema operacional baseado em Linux.
+
+Gerenciador de pacotes apt-get.
+
+Permissões de superusuário (sudo).
